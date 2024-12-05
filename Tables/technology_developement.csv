@@ -1,0 +1,10 @@
+carrier,Unit,2020,2030,2040,2050
+Coal (All types),€/kW,358.55,358.55,358.55,358.55
+Lignite,€/kW,337.21,337.21,337.21,337.21
+Combined-Cycle Gas,€/kW,110.92,104.79,102.47,100.16
+Offshore Wind (DC),€/kW,338.78,297.05,281.83,278.18
+Offshore Wind (AC),€/kW,304.0,262.24,247.4,244.25
+Onshore Wind,€/kW,113.58,101.64,95.63,94.13
+Solar,€/kW,56.71,39.3,33.03,30.13
+battery charger,€/kW,41.25,24.68,15.64,9.61
+Battery Storage,€/kWh,23.17,12.89,8.02,6.4

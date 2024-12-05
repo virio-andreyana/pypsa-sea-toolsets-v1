@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "custom_ext_buses",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bus_id": 300000, "symbol": "substation", "tag_substation": "transmission", "voltage": 275000, "lon": 103.806467799999, "lat": 1.4806426, "dc": false, "under_construction": false, "station_id": null, "country": "Peninsular/MY" }, "geometry": { "type": "Point", "coordinates": [ 103.806467799998998, 1.48064260000001 ] } },
+{ "type": "Feature", "properties": { "bus_id": 400000, "symbol": "substation", "tag_substation": "transmission", "voltage": 275000, "lon": 103.810604036892, "lat": 1.4622367723213701, "dc": false, "under_construction": false, "station_id": null, "country": "SG" }, "geometry": { "type": "Point", "coordinates": [ 103.810604036892002, 1.46223677232137 ] } }
+]
+}

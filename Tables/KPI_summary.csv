@@ -1,0 +1,25 @@
+KPI,Policy,SEA_EXIST_,SEA_AIMS_,SEA_IRENA_
+Renewable Share [%],BAU,60.2,63.8,65.7
+Renewable Share [%],SE,70.4,74.1,75.6
+Renewable Share [%],DEC,90.8,90.5,90.6
+Annual Emission [MtCO2/a],BAU,1074.7,995.3,956.6
+Annual Emission [MtCO2/a],SE,505.4,505.4,505.4
+Annual Emission [MtCO2/a],DEC,50.5,50.5,50.5
+Emission Intensity [gCO2/kWh],BAU,167.6,155.2,149.2
+Emission Intensity [gCO2/kWh],SE,78.8,78.8,78.8
+Emission Intensity [gCO2/kWh],DEC,7.9,7.9,7.9
+Coal Capacity Factor [%],BAU,81.3,80.6,80.6
+Coal Capacity Factor [%],SE,6.9,25.3,30.8
+Coal Capacity Factor [%],DEC,0.0,1.8,1.8
+Transmission Capacity [TVA km],BAU,388.5,405.4,432.5
+Transmission Capacity [TVA km],SE,523.8,640.6,646.4
+Transmission Capacity [TVA km],DEC,735.3,1379.4,1247.0
+Energy Trade [TWh],BAU,700.9,1344.8,1537.8
+Energy Trade [TWh],SE,1352.7,2528.6,2622.5
+Energy Trade [TWh],DEC,1541.2,5541.3,4854.4
+Annual System Cost [EUR Bil/a],BAU,322.9,319.1,318.9
+Annual System Cost [EUR Bil/a],SE,342.2,332.3,330.3
+Annual System Cost [EUR Bil/a],DEC,646.2,385.3,374.0
+Marginal Price [EUR/MWh],BAU,50.3,49.8,49.7
+Marginal Price [EUR/MWh],SE,53.4,51.8,51.5
+Marginal Price [EUR/MWh],DEC,100.8,60.1,58.3
